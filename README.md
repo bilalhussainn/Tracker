@@ -1,3 +1,11 @@
-Tracker app from Udemy course. 
+Tracker app using React Native.
 
-Completed.
+React Native app for Location tracking with azios API integration with authentication. 
+
+Account Sign UP.
+
+Account Login with jwt token.
+
+Create Track Locations.
+
+Save Track locations for users.
